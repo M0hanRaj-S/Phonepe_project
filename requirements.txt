@@ -1,0 +1,5 @@
+streamlit
+matplotlib.pyplot as plt
+plotly.express as px
+plotly.graph_objects as go
+plotly.io as pio
